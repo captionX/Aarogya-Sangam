@@ -1,5 +1,3 @@
-# Aarogya-Sangam
---
 Healthcare Queue Management App
 
 
